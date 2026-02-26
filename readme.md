@@ -1,6 +1,6 @@
 # 📚 Learning in Public
 
-> A living document of everything I'm learning and reading . It's updated monthly.
+ A living document of everything I'm learning and reading . It's updated monthly.
 
 ---
 
@@ -14,7 +14,7 @@
 <details>
 <summary>February</summary>
 
-- 📄 [Notion Page →](YOUR_NOTION_LINK_HERE)
+- 
 
 </details>
 
@@ -30,7 +30,7 @@
 <details>
 <summary>February</summary>
 
-- 📄 [Notion Page →](YOUR_NOTION_LINK_HERE)
+- RAG -> https://saimbuilds.notion.site/rag?pvs=74
 
 </details>
 
@@ -38,4 +38,4 @@
 
 ---
 
-*Updated monthly. All detailed notes live on Notion.*
+"this will give me a compound benefit "
